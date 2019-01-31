@@ -1,0 +1,9 @@
+{
+  "name": "sagatest",
+  "version": "0.0.0",
+  "description": "Helpers for testing sagas",
+  "main": "index.js",
+  "author": "Thomas Marek <ttmarek@outlook.com>",
+  "license": "MIT",
+  "private": false
+}
